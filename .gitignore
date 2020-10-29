@@ -1,2 +1,10 @@
 *.class
 *.log
+.history*
+export
+*.xml
+sbt*
+*.iml
+out
+output
+previous
